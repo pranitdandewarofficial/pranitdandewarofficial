@@ -47,7 +47,7 @@ Welcome to my digital playground! I'm a passionate **developer, content creator,
 
 ### 📫 Connect With Me
 - 📩 Email: **busines.pranit@gmail.com**
-- 📷 Instagram: [@pranitdandewarofficial](https://www.instagram.com/pranitdandewarofficial)
+- 📷 Instagram: [@pranitdandewarofficial](https://www.instagram.com/pranitdandewar)
 - 💼 LinkedIn: *Coming soon*
 
 ---
