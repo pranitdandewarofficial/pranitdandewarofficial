@@ -1,7 +1,7 @@
 🚀 Pranit Dandewar
 
 A learner with big goals, sharp focus, and relentless consistency.
-Preparing for **AIR 1 in JEE Mains & Advanced**, building discipline, and sharpening problem-solving skills through code, maths, and physics.
+Preparing for JEE Mains & Advanced**, building discipline, and sharpening problem-solving skills through code, maths, and physics.
 
 
 
