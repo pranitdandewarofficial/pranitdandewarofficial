@@ -1,65 +1,59 @@
-**- 👋 Hi, I’m @pranitdandewarofficial
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Pranit Dandewar
 
-<!---
-pranitdandewarofficial/pranitdandewarofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-**# 👋 Hey there! I'm Pranit Dandewar
+A learner with big goals, sharp focus, and relentless consistency.
+Preparing for **AIR 1 in JEE Mains & Advanced**, building discipline, and sharpening problem-solving skills through code, maths, and physics.
 
-Welcome to my digital playground! I'm a passionate **developer, content creator, and self-improvement enthusiast** on a mission to build, learn, and inspire — one project at a time.
 
----
 
-### 🚀 About Me
-- 🎓 I'm a Computer Science student with a deep love for **technology, creativity, and growth**.
-- 🧠 Currently diving into **Flutter, full-stack development, AI integration**, and content creation strategies.
-- 🎮 I create engaging content around **gaming, self-improvement, coding, and tech**.
+📘 About Me
 
----
+* 🎯 Focused on **IIT Bombay CSE**
+* 📚 Preparing for **JEE + Boards** while building small, useful tools
+* 💻 Love creating clean, logical, high-impact code
+* 🧠 Enjoy breaking complex concepts into simple, intuitive ideas
+* ⚙️ Interested in **math visualizations, physics simulations, educational tools, and lightweight automation**
 
-### 🔭 I’m Currently Working On
-- 📱 A **personal productivity app** using Flutter with offline AI features.
-- 🧩 An **esports tournament app** designed to revolutionize mobile gaming competitions.
-- 🎬 A **custom video editing tool** with automated effects using Python & OpenCV.
 
----
 
-### 🌱 I’m Currently Learning
-- 📚 Advanced **JavaScript, CSS animations**, and **backend integrations**.
-- 🧠 Deep diving into **AI/ML concepts** for building smart offline tools.
-- 🎥 Storytelling + Video Editing for impactful social media content.
+🔥 What I Build
 
----
+* 🛠️ Small projects that simplify learning
+* 🔢 Math/physics solvers & calculators
+* ⚡ Fast scripts to automate repetitive tasks
+* 👨‍🏫 Tools that help students practice, revise, and stay consistent
+* 🎯 Concept-based mini-apps for JEE preparation
 
-### 🤝 I’m Open to Collaborate On
-- 🔧 Innovative mobile apps (Flutter / Web dev)
-- 🤖 AI tools for productivity or education
-- 🎮 Game development or gaming content projects
-- 📸 Video content, storytelling, or reels
 
----
 
-### 📫 Connect With Me
-- 📩 Email: **busines.pranit@gmail.com**
-- 📷 Instagram: [@pranitdandewarofficial](https://www.instagram.com/pranitdandewar)
-- 💼 LinkedIn: *Coming soon*
+🌱 Currently Learning
+
+* 🧩 Algorithms + problem-solving
+* 🌐 Basic web dev (HTML, CSS, JS) for building educational tools
+* 🔢 Deeper calculus + vectors + electromagnetism
+* 🎯 Productivity systems & focused study workflows
+
+
+
+🤝 Open To Collaborations In
+
+* Learning tools for students
+* JEE calculators & concept visualizers
+* Simple educational apps
+* Lightweight automation using Python/JS
+
+
+
+📫 Reach Me At
+
+* 📩 **[busines.pranit@gmail.com](mailto:busines.pranit@gmail.com)**
+* 📷 Instagram: [@pranitdandewarofficial](https://www.instagram.com/pranitdandewar)
 
 ---
 
-### 😄 Pronouns
-**He
+⚡ Fun Fact
+
+I treat my **consistency like a project** — version controlled, tracked, and improved.
 
 ---
+“Small steps, daily discipline, and clean focus — that’s my path.”
 
-### ⚡ Fun Fact
-I start my day at **4:00 AM** to chase dreams before the world even wakes up! 🌅💻
-
----
-
-> “Stay consistent. Stay humble. Stay building.” 💡
