@@ -7,7 +7,7 @@ Preparing for JEE Mains & Advanced**, building discipline, and sharpening proble
 
 📘 About Me
 
-* 🎯 Focused on **IIT Bombay CSE**
+* 🎯 Focused on myself
 * 📚 Preparing for **JEE + Boards** while building small, useful tools
 * 💻 Love creating clean, logical, high-impact code
 * 🧠 Enjoy breaking complex concepts into simple, intuitive ideas
