@@ -8,7 +8,7 @@ Preparing for JEE Mains & Advanced**, building discipline, and sharpening proble
 📘 About Me
 
 * 🎯 Focused on myself
-* 📚 Preparing for **JEE + Boards** while building small, useful tools
+* 📚 Preparing for Future while building small, useful tools
 * 💻 Love creating clean, logical, high-impact code
 * 🧠 Enjoy breaking complex concepts into simple, intuitive ideas
 * ⚙️ Interested in **math visualizations, physics simulations, educational tools, and lightweight automation**
