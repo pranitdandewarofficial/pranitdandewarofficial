@@ -1,59 +1,66 @@
-🚀 Pranit Dandewar
-
-A learner with big goals, sharp focus, and relentless consistency.
-Preparing for JEE Mains & Advanced**, building discipline, and sharpening problem-solving skills through code, maths, and physics.
-
-
-
-📘 About Me
-
-* 🎯 Focused on myself
-* 📚 Preparing for Future while building small, useful tools
-* 💻 Love creating clean, logical, high-impact code
-* 🧠 Enjoy breaking complex concepts into simple, intuitive ideas
-* ⚙️ Interested in **math visualizations, physics simulations, educational tools, and lightweight automation**
-
-
-
-🔥 What I Build
-
-* 🛠️ Small projects that simplify learning
-* 🔢 Math/physics solvers & calculators
-* ⚡ Fast scripts to automate repetitive tasks
-* 👨‍🏫 Tools that help students practice, revise, and stay consistent
-* 🎯 Concept-based mini-apps for JEE preparation
-
-
-
-🌱 Currently Learning
-
-* 🧩 Algorithms + problem-solving
-* 🌐 Basic web dev (HTML, CSS, JS) for building educational tools
-* 🔢 Deeper calculus + vectors + electromagnetism
-* 🎯 Productivity systems & focused study workflows
-
-
-
-🤝 Open To Collaborations In
-
-* Learning tools for students
-* JEE calculators & concept visualizers
-* Simple educational apps
-* Lightweight automation using Python/JS
-
-
-
-📫 Reach Me At
-
-* 📩 **[busines.pranit@gmail.com](mailto:busines.pranit@gmail.com)**
-* 📷 Instagram: [@pranitdandewarofficial](https://www.instagram.com/pranitdandewar)
+<h1 align="center">Hi 👋, I'm Pranit Dandewar</h1>
+<h3 align="center">🚀 JEE Aspirant | Builder | Automation & Learning Tools Developer</h3>
 
 ---
 
-⚡ Fun Fact
-
-I treat my **consistency like a project** — version controlled, tracked, and improved.
+## ⚡ About Me
+- 🎯 Focused on **JEE Mains & Advanced**
+- 🧠 I build tools that **simplify complex concepts**
+- ⚙️ Into **automation, physics simulations, and productivity systems**
+- 📈 Consistency > Motivation
 
 ---
-“Small steps, daily discipline, and clean focus — that’s my path.”
 
+## 🧰 What I Build
+- 🧮 Math & Physics Solvers
+- 📊 Visual Learning Tools
+- 🤖 Automation Scripts (Python / JS)
+- 📱 Mini apps for students
+
+---
+
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🔥 **PRANITPORTFOLIO** – Personal portfolio website  
+- ⚡ **JEE Tools** – Calculators & concept visualizers  
+- 🎨 **3D Image Effects** – UI experiments  
+- 📄 **PDF Merger** – Utility tool  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranitdandewarofficial&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitdandewarofficial&theme=radical" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+- 📘 Algorithms & Problem Solving  
+- ⚡ Advanced Physics + Calculus  
+- 🧠 Productivity Systems  
+
+---
+
+## 🤝 Open To
+- Student tools & education apps  
+- JEE-related projects  
+- Automation ideas  
+
+---
+
+## 📫 Contact Me
+- 📧 business.pranit@gmail.com  
+- 📸 Instagram: @pranitdandewarofficial  
+
+---
+
+## ⚡ Philosophy
+> Small steps. Daily discipline. Relentless execution.
