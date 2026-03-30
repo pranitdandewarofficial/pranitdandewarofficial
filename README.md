@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranit Dandewar</h1>
-<h3 align="center">🚀 JEE Aspirant | Builder | Automation & Learning Tools Developer</h3>
+<h3 align="center">🚀 Future Human | Builder | Automation & Learning Tools Developer</h3>
 
 ---
 
 ## ⚡ About Me
-- 🎯 Focused on **JEE Mains & Advanced**
+- 🎯 Focused on self
 - 🧠 I build tools that **simplify complex concepts**
 - ⚙️ Into **automation, physics simulations, and productivity systems**
 - 📈 Consistency > Motivation
@@ -28,7 +28,6 @@
 
 ## 📌 Featured Projects
 - 🔥 **PRANITPORTFOLIO** – Personal portfolio website  
-- ⚡ **JEE Tools** – Calculators & concept visualizers  
 - 🎨 **3D Image Effects** – UI experiments  
 - 📄 **PDF Merger** – Utility tool  
 
@@ -51,14 +50,13 @@
 
 ## 🤝 Open To
 - Student tools & education apps  
-- JEE-related projects  
 - Automation ideas  
 
 ---
 
 ## 📫 Contact Me
 - 📧 business.pranit@gmail.com  
-- 📸 Instagram: @pranitdandewarofficial  
+- 📸 Instagram: @pranitdandewar
 
 ---
 
