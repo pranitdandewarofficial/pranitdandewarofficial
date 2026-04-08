@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mock Test Generator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Mock Test Studio</p>
+        <h1>Auto-generate mock tests for Boards, CET, JEE Main & JEE Advanced</h1>
+        <p class="subtext">
+          Pick your exam, difficulty, and stream to instantly build a printable mock paper with
+          exam-accurate structure and tone.
+        </p>
+      </div>
+      <div class="difficulty-card">
+        <h3>Difficulty DNA</h3>
+        <ul>
+          <li><span>Boards</span> ⭐</li>
+          <li><span>MHT-CET</span> ⭐⭐</li>
+          <li><span>JEE Main</span> ⭐⭐⭐</li>
+          <li><span>JEE Advanced</span> ⭐⭐⭐⭐⭐</li>
+        </ul>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls">
+        <div class="control">
+          <label for="exam">Select exam</label>
+          <select id="exam">
+            <option value="cet">MHT-CET</option>
+            <option value="boards">Maharashtra HSC Boards (12th)</option>
+            <option value="jee-main">JEE Main</option>
+            <option value="jee-advanced">JEE Advanced</option>
+          </select>
+        </div>
+
+        <div class="control" id="stream-control">
+          <label for="stream">Stream</label>
+          <select id="stream">
+            <option value="pcm">PCM</option>
+            <option value="pcb">PCB</option>
+          </select>
+        </div>
+
+        <div class="control">
+          <label for="difficulty">Difficulty mode</label>
+          <input type="range" id="difficulty" min="1" max="4" value="2" />
+          <div class="difficulty-scale">
+            <span>Easy</span>
+            <span>Exam-level</span>
+            <span>Slightly tough</span>
+            <span>Advanced</span>
+          </div>
+          <p class="difficulty-output" id="difficulty-output"></p>
+        </div>
+
+        <div class="control">
+          <label for="question-count">Question density</label>
+          <select id="question-count">
+            <option value="full" selected>Full paper</option>
+            <option value="compact">Compact (50%)</option>
+          </select>
+        </div>
+
+        <div class="action-row">
+          <button id="generate">Generate mock test</button>
+          <button id="export" class="secondary">Export to PDF</button>
+        </div>
+      </section>
+
+      <section class="output">
+        <div class="output-header">
+          <div>
+            <h2 id="paper-title">Your mock paper will appear here</h2>
+            <p id="paper-subtitle" class="muted">Choose options and generate a paper.</p>
+          </div>
+          <div class="pill-row" id="paper-tags"></div>
+        </div>
+
+        <div class="rules" id="paper-rules"></div>
+
+        <div id="paper-body" class="paper-body"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Mentor warning: Never mix CET-level easy numericals with JEE Advanced depth.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
