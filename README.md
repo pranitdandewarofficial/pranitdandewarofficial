@@ -1,282 +1,188 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=PRANIT+DANDEWAR&fontSize=90&animation=twinkling&fontAlignY=32&desc=Systems%20Architect%20%7C%20Automation%20Engineer%20%7C%20AI-Proof%20Builder&descAlignY=60&descSize=25&fontColor=00FF41&textColor=00FF41" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=110&lines=%E2%9A%A1+SYSTEM+ONLINE+%3A+PRANIT+DANDEWAR;Systems+Architect+%7C+Automation+Engineer;Building+AI-Proof+Learning+Systems" alt="Typing Header" />
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%E2%9A%A1+SYSTEM+INITIALIZED+%E2%9A%A1;%F0%9F%9A%80+Welcome+to+the+Digital+Command+Center;%F0%9F%A7%A0+Building+the+Future+of+Learning+%26+Automation;%F0%9F%92%A1+18+Years+Old+%7C+Relentless+Execution+%7C+Systems+Thinker" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/pranitdandewar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/PRANITDANDEWAR"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:business.pranit@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_STATUS-ONLINE-00FF41?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/⚡_MODE-DEEP_WORK-FF6B35?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🎯_FOCUS-BUILDING-FFD700?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranitdandewarofficial&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/🔥_Status-ONLINE-00FF41?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⚡_Mode-DEEP_WORK-FF6B35?style=flat-square&labelColor=0A0A0A" />
+</p>
 
 ---
 
 ## 🌍 Global Impact Dashboard
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌐_Global_Reach-2,847,392+-00FF41?style=for-the-badge&logo=google-earth&logoColor=white&labelColor=0A0A0A" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡_Daily_Commits-730+-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Projects_Shipped-87+-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0A0A0A" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_Lines_of_Code-250K+-FFD700?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0A0A0A" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_Contribution_Streak-365_Days-FF4500?style=for-the-badge&logo=streak&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/⭐_GitHub_Stars-1,200+-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/👥_Community_Impact-50K+-00BFFF?style=for-the-badge&logo=users&logoColor=white&labelColor=0A0A0A" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Global_Reach-2,847,392%2B-00FF41?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⚡_Daily_Commits-730%2B-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/🚀_Projects_Shipped-87%2B-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Lines_of_Code-250K%2B-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/🔥_Build_Streak-365_Days-FF4500?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/👥_Community_Impact-50K%2B-00BFFF?style=for-the-badge&labelColor=0A0A0A" />
+</p>
 
 ---
 
 ## 💥 The Builder's Manifesto
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=I+don't+just+write+code%3B+I+architect+systems+that+transform+complexity+into+clarity.&author=Pranit+Dandewar" />
-</div>
+> **I don't just write code — I architect systems that transform complexity into clarity.**
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Systems+Over+Features+%7C+Daily+Execution+%7C+AI-Proof+Architecture;%F0%9F%8E%AF+Simplicity+is+Ultimate+Sophistication+%7C+Build+for+the+Top+1%25;%F0%9F%9A%80+Transforming+Math+%26+Physics+into+Visual+Experiences" />
-</div>
+I am an **18-year-old Systems Architect** obsessed with building **AI-proof, interactive, automation-first systems**.
 
-I am an **18-year-old Systems Architect** and **Automation Engineer** obsessed with building **AI-proof, interactive, and automation-first systems** that solve real-world problems at scale.
+<details>
+<summary><b>🧠 Click to unlock my Core Operating Principles</b></summary>
+<br>
 
-### 🧠 Core Operating Principles:
-- **🎯 Systems Thinking**: I build frameworks, not just features. Every project is designed to scale infinitely.
-- **⚡ Relentless Execution**: Small steps, daily discipline, relentless execution. Consistency beats motivation every single day.
-- **🚀 AI-Proof Architecture**: Building tools that remain relevant and powerful even in the age of AGI.
-- **💡 Visual Learning**: Transforming complex mathematical, physical, and productivity concepts into intuitive, interactive experiences.
+- **🎯 Systems Over Features** — I build frameworks designed to scale infinitely, not one-off tools.
+- **⚡ Relentless Execution** — Small steps. Daily discipline. Consistency beats motivation, every single day.
+- **🚀 AI-Proof Architecture** — Tools that stay powerful even in the age of AGI.
+- **💡 Visual Learning** — Turning complex math, physics & productivity concepts into interactive experiences.
 
----
+</details>
 
-## 🛠️ Technical Arsenal (Animated)
+<details>
+<summary><b>💻 Click to open my Terminal</b></summary>
+<br>
 
-<div align="center">
-  <h3>🎨 Frontend & Visual Systems</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind,figma,framer,threejs,gsap&perline=10" />
-  
-  <h3>⚙️ Backend & Data Architecture</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,supabase,firebase,postgresql,redis,graphql&perline=10" />
-  
-  <h3>🤖 Automation & AI Systems</h3>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,githubactions,git,linux,bash,docker,kubernetes,aws,vercel&perline=10" />
-  
-  <h3>🔧 Developer Tools & Workflow</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux,bash,powershell,terminal&perline=8" />
-</div>
+```bash
+pranit@command-center:~$ whoami
+> Systems Architect | Automation Engineer | 18 y/o Builder
+
+pranit@command-center:~$ cat mission.txt
+> Transform complex ideas into simple, useful, visual experiences.
+
+pranit@command-center:~$ ./daily_routine --mode=deep-work
+> [OK] Build shipped. [OK] Lesson learned. [OK] Repeat tomorrow.
+```
+
+</details>
 
 ---
 
-## 🚀 Featured Systems & Products (3D Interactive Cards)
+## 🛠️ Technical Arsenal
 
-<div align="center">
-  <h2>🏆 Production-Grade Engineering</h2>
-</div>
+<p align="center"><b>🎨 Frontend & Visual Systems</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,html,css,tailwind,figma,threejs&perline=8" />
+</p>
 
-<table>
-  <tr>
-    <td>
-      <div align="center">
-        <h3>🧮 Interactive STEM Lab</h3>
-        <img src="https://img.shields.io/badge/Status-LIVE-00FF41?style=for-the-badge" />
-        <p><b>Impact:</b> Real-time physics & calculus simulations used by <b>50,000+ students</b> globally</p>
-        <p><b>Tech:</b> React, TypeScript, Canvas API, WebGL</p>
-        <a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github" /></a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>⚙️ Productivity OS</h3>
-        <img src="https://img.shields.io/badge/Status-LIVE-00FF41?style=for-the-badge" />
-        <p><b>Impact:</b> Automation-first workflow system saving <b>15+ hours/week</b> per user</p>
-        <p><b>Tech:</b> Next.js, Supabase, Tailwind, Vercel</p>
-        <a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github" /></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-        <h3>🤖 Workflow Automator</h3>
-        <img src="https://img.shields.io/badge/Status-PRODUCTION-00FF41?style=for-the-badge" />
-        <p><b>Impact:</b> Python-based agent suite eliminating repetitive tasks for <b>1000+ creators</b></p>
-        <p><b>Tech:</b> Python, FastAPI, Node.js, GitHub Actions</p>
-        <a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github" /></a>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <h3>📊 Analytics Dashboard</h3>
-        <img src="https://img.shields.io/badge/Status-BETA-FFD700?style=for-the-badge" />
-        <p><b>Impact:</b> Real-time data visualization for productivity metrics & system performance</p>
-        <p><b>Tech:</b> React, D3.js, Supabase, Chart.js</p>
-        <a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center"><b>⚙️ Backend & Data Architecture</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,supabase,firebase,graphql&perline=8" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/pranitdandewarofficial?tab=repositories">
-    <img src="https://img.shields.io/badge/🔥_Access_Full_Repository_Archives-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<p align="center"><b>🤖 Automation & DevOps</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,vercel,fastapi,redis&perline=8" />
+</p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🚀 Featured Systems & Products
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranitdandewarofficial&theme=radical&column=7&no-frame=true&margin-w=15&no-bg=true" />
-</div>
+<details>
+<summary>🧮 <b>Interactive STEM Lab</b> — <i>tap to expand</i> 🟢 LIVE</summary>
+<br>
 
-<div align="center">
-  <h3>💥 Key Milestones</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Top_1%25_Builder-Consistently_Shipping-00FF41?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_87+_Projects-Production_Grade-FF6B35?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡_730+_Daily_Commits-Relentless_Execution-blueviolet?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌍_Global_Impact-Tools_Used_Worldwide-00BFFF?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💡_AI-Proof_Systems-Built_for_Future-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔥_365_Day_Streak-Consistency_King-FF4500?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Impact:** Real-time physics & calculus simulations making abstract concepts visually intuitive for **50,000+ students**.
+**Stack:** `React` `TypeScript` `Canvas API` `WebGL`
 
----
+<a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-## 📈 Live Coding Activity (Real-Time)
+</details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitdandewarofficial&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
-</div>
+<details>
+<summary>⚙️ <b>Productivity OS</b> — <i>tap to expand</i> 🟢 LIVE</summary>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitdandewarofficial&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41" />
-</div>
+**Impact:** Automation-first workflow system that eliminates decision fatigue. Saves **15+ hours/week** per user.
+**Stack:** `Next.js` `Supabase` `Tailwind` `Vercel`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitdandewarofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-</div>
+<a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+</details>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+<details>
+<summary>🤖 <b>Workflow Automator</b> — <i>tap to expand</i> 🟢 PRODUCTION</summary>
+<br>
+
+**Impact:** Python agent suite eliminating repetitive tasks for **1,000+ creators & small businesses**.
+**Stack:** `Python` `FastAPI` `Node.js` `GitHub Actions`
+
+<a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</details>
+
+<details>
+<summary>📊 <b>Analytics Dashboard</b> — <i>tap to expand</i> 🟡 BETA</summary>
+<br>
+
+**Impact:** Real-time visualization of productivity metrics, learning progress & system performance.
+**Stack:** `React` `D3.js` `Supabase` `Chart.js`
+
+<a href="https://github.com/pranitdandewarofficial"><img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</details>
+
+<p align="center">
+  <a href="https://github.com/pranitdandewarofficial?tab=repositories"><img src="https://img.shields.io/badge/🔥_Full_Repository_Archives-FF6B35?style=for-the-badge&labelColor=0A0A0A" /></a>
+</p>
 
 ---
 
-## 🌱 Current Execution Roadmap (2026-2027)
+## 🏆 Achievements
 
-<div align="center">
-  <h3>🎯 What I'm Building Right Now</h3>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Top_1%25_Builder-At_18-00FF41?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/🚀_87%2B_Projects-Production_Grade-FF6B35?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⚡_730%2B_Commits-Relentless-8A2BE2?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Global_Impact-Tools_Used_Worldwide-00BFFF?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/💡_AI--Proof_Systems-Built_For_Future-FFD700?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/🔥_365_Day_Streak-Consistency_King-FF4500?style=for-the-badge&labelColor=0A0A0A" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🧠_Advanced_Algorithms-LeetCode_%7C_Codeforces_%7C_System_Design-00FF41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_Physics_Simulations-WebGL_%7C_Canvas_%7C_Three.js-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_AI-Tools-LangChain_%7C_Automation_%7C_AI_Agents-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈_Scaling_to_1M+_Users-Global_Impact-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_Next-Gen_UI/UX-Framer_%7C_GSAP_%7C_3D_Web-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_AI-Proof_Learning-CSE_%7C_Robotics_%7C_Quantum-FF4500?style=for-the-badge" />
-</div>
+---
+
+## 🐍 Live Contribution Feed
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranitdandewarofficial/pranitdandewarofficial/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/pranitdandewarofficial/pranitdandewarofficial/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🌱 Execution Roadmap 2026–27
+
+- [x] Master advanced algorithms & system design fundamentals
+- [ ] Ship 3+ production tools with active user bases
+- [ ] Launch interactive WebGL physics simulation suite
+- [ ] Build AI-augmented developer tooling (agents + automation)
+- [ ] Scale open-source learning tools to 100K+ users
+- [ ] Publish AI-proof CSE/Robotics curriculum platform
 
 ---
 
 ## 🤝 Let's Build Something Impactful
 
-<div align="center">
-  <h3>🚀 Open to Collaborate On:</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎓_EdTech-Interactive_Learning-00FF41?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⚡_Productivity-Workflow_Automation-FF6B35?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤖_AI-Tools-Augmented_Development-blueviolet?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_SaaS-Scalable_Ideas-FFD700?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌍_Open-Source-Global_Impact-00BFFF?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💬_DMs-Always_Open-FF4500?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
+Open to: **EdTech simulations • Productivity systems • AI dev tools • Scalable SaaS • Open source**
 
-<div align="center">
-  <a href="mailto:business.pranit@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-business.pranit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/pranitdandewar">
-    <img src="https://img.shields.io/badge/📸_Instagram-@pranitdandewar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/PRANITDANDEWAR">
-    <img src="https://img.shields.io/badge/🐦_X/Twitter-@PRANITDANDEWAR-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:business.pranit@gmail.com"><img src="https://img.shields.io/badge/📧_business.pranit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💭 Daily Wisdom
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Small+steps.+Daily+discipline.+Relentless+execution.;Thanks+for+visiting.+Let's+build+the+future." alt="Footer Typing" />
+</p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks+for+visiting!+Let's+build+the+future+together.&fontSize=25&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Built_with-☕_Consistency_&_Relentless_Drive-00FF41?style=for-the-badge" />
-</div>
-
-<div align="center">
-  <h2>🚀 System Online. End of Transmission. 🚀</h2>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.la.wang.shields.io/badge/Total_Visitors-2,847,392+-00FF41?style=for-the-badge&logo=eye&logoColor=white&labelColor=000000" />
-</div>
+<p align="center"><sub>Built with ☕, consistency, and zero broken dependencies.</sub></p>
