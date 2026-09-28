@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranit Dandewar</h1>
-<h3 align="center">🚀 Future Human • Builder of Automation, Learning Tools & Interactive Systems</h3>
+<h3 align="center">Systems Builder • Interactive Learning Engineer • Automation Architect</h3>
 
 <p align="center">
   <a href="https://github.com/pranitdandewarofficial">
@@ -8,233 +8,115 @@
   <a href="https://www.instagram.com/pranitdandewar">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
+  <a href="https://x.com/PRANITDANDEWAR">
+    <img src="https://img.shields.io/badge/X/Twitter-000000?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
   <a href="mailto:business.pranit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranitdandewarofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pranitdandewarofficial&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-🚀%20Building%20Daily-brightgreen?style=flat-square" alt="Status" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 💡 The Builder's Manifesto
 
-I build tools that make learning, productivity, and automation more practical, visual, and human.
+I am an 18-year-old developer and entrepreneur focused on building **AI-proof, interactive, and automation-first systems**. My mission is to transform complex mathematical, physical, and productivity concepts into intuitive, visual, and highly scalable digital experiences. 
 
-- 🎯 Focused on building systems that solve real problems
-- 🧠 Interested in **math, physics, productivity, automation, and learning systems**
-- ⚙️ Love creating **interactive tools, simulations, and workflow-based products**
-- 📈 I believe **consistency beats motivation every single day**
-- 🚀 Trying to turn complex ideas into simple and useful experiences
+I don't just write code; I design **systems thinking frameworks**. I believe in daily execution, compounding knowledge, and building products that meet IIT/Harvard-level engineering standards while remaining accessible to Gen Z learners and small businesses.
+
+> *"Small steps. Daily discipline. Relentless execution."*
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 What I'm Currently Building
 
-- Interactive tools for **visual learning**
-- Automation systems for **productivity and workflows**
-- Simple digital products that make **hard concepts easier to understand**
-- Experiments around **self-growth, systems thinking, and practical tech**
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-111111?style=flat-square" />
-</p>
+- 🧮 **Interactive Physics & Calculus Engine**: Real-time, browser-based simulations making abstract STEM concepts visually intuitive. *(React, TypeScript, HTML5 Canvas)*
+- ⚙️ **Productivity OS**: A centralized, automation-first workflow system for habit tracking, deep work, and systemized learning. *(Next.js, Supabase, Tailwind CSS)*
+- 🤖 **Smart Workflow Automations**: Python-based agents and scripts that eliminate repetitive tasks, saving 10+ hours/week for students and creators.
+- 📚 **AI-Proof Learning Platforms**: Architecting curricula and tools that teach foundational CSE, robotics, and quantum concepts to keep learners ahead of AGI.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technical Arsenal
 
-> Replace the repo names and links below with your real best projects.
+I choose tools based on scalability, performance, and developer experience. 
 
-### 🔹 [Math Visualizer](https://github.com/pranitdandewarofficial)
-Interactive learning tool to simplify difficult mathematical concepts using visuals and user-friendly explanations.  
-**Tech:** React, JavaScript, CSS
-
-### 🔹 [Physics Simulation Lab](https://github.com/pranitdandewarofficial)
-A collection of physics-based simulations for better conceptual understanding through interaction.  
-**Tech:** HTML, CSS, JavaScript
-
-### 🔹 [Productivity OS](https://github.com/pranitdandewarofficial)
-A system-focused productivity tool for routines, focus, consistency, and habit tracking.  
-**Tech:** React / Next.js / Firebase
-
-### 🔹 [Automation Toolkit](https://github.com/pranitdandewarofficial)
-Useful automation scripts and tools for saving time, improving workflows, and reducing repetitive work.  
-**Tech:** Python, Node.js
+| Domain | Technologies & Tools |
+|--------|----------------------|
+| **Frontend & Visuals** | React, Next.js, TypeScript, Tailwind CSS, HTML5 Canvas, Framer Motion |
+| **Backend & Data** | Node.js, Express, Python (FastAPI/Flask), PostgreSQL, MongoDB, Supabase, Firebase |
+| **Automation & AI** | Python Scripting, GitHub Actions, LangChain (Learning), RESTful APIs |
+| **DevOps & Workflow** | Git, GitHub, Vercel, Docker (Learning), Figma, VS Code |
 
 ---
 
-## 📌 Current Focus
+## 🏆 Featured Engineering & Products
 
-- Building **learning tools** that feel intuitive and useful
-- Designing **automation-first systems**
-- Exploring **interactive simulations**
-- Publishing more projects in public consistently
-- Improving code quality, structure, and execution
+*Note: Quality over quantity. Every project below is built with production-grade standards, clean architecture, and scalability in mind.*
 
----
+### 🔹 [Interactive STEM Simulation Lab](https://github.com/pranitdandewarofficial)
+- **The Problem**: Traditional STEM learning lacks real-time visual feedback.
+- **The Solution**: A suite of interactive, physics-based web simulations allowing users to manipulate variables and see real-time outcomes.
+- **Tech Stack**: React, TypeScript, CSS3, JavaScript Math Libraries.
+- **Status**: 🟢 Active Development | [Live Demo](#)
 
-## 🤝 Open to Collaborate On
+### 🔹 [Productivity & Workflow OS](https://github.com/pranitdandewarofficial)
+- **The Problem**: Fragmented tools ruin focus and consistency.
+- **The Solution**: A unified, system-focused dashboard for routine building, focus tracking, and automated habit reinforcement.
+- **Tech Stack**: Next.js, Tailwind CSS, Supabase, Vercel.
+- **Status**: 🟡 Beta Testing | [Live Demo](#)
 
-I’d love to collaborate on:
+### 🔹 [Intelligent Document & Workflow Automator](https://github.com/pranitdandewarofficial)
+- **The Problem**: Manual data handling and file management waste hours.
+- **The Solution**: A lightweight, high-speed Python utility suite for batch processing, merging, and automating repetitive digital tasks.
+- **Tech Stack**: Python, PyPDF2, OS Automation, Node.js.
+- **Status**: 🟢 Production Ready | [Live Demo](#)
 
-- Learning tools
-- Educational simulations
-- Productivity systems
-- Automation workflows
-- Creative developer tools
-
----
-
-## 🎯 2026 Goals
-
-- Build **3+ public tools** that people actually use
-- Create better **math and physics learning experiences**
-- Ship a polished **portfolio + project showcase**
-- Improve project quality with **testing and automation**
-- Stay consistent and build more in public
+> 💡 *Want to see the code behind the magic? Explore my **[full repository portfolio →](https://github.com/pranitdandewarofficial?tab=repositories)**.*
 
 ---
 
-## 📊 GitHub Stats
+## 📈 2026–2027 Execution Roadmap
+
+- [x] Master advanced algorithms, data structures, and system design principles.
+- [ ] Ship **3+ production-grade public tools** with active user bases.
+- [ ] Publish open-source contributions to major educational or automation repositories.
+- [ ] Architect and launch a comprehensive, AI-proof tech curriculum platform.
+- [ ] Achieve consistent daily commits and build-in-public transparency.
+
+---
+
+## 🤝 Let's Build Something Impactful
+
+I am always open to collaborating with fellow builders, educators, and entrepreneurs on:
+- 🎓 **EdTech & Interactive Learning Simulations**
+- ⚡ **Productivity Systems & Workflow Automation**
+- 🤖 **AI-Augmented Developer Tools**
+- 🚀 **High-impact, scalable SaaS ideas for Gen Z & SMBs**
+
+If you have an interesting physics simulation idea, a productivity hack, or just want to discuss systems thinking, **my DMs are open**.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitdandewarofficial&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranitdandewarofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitdandewarofficial&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitdandewarofficial&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitdandewarofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitdandewarofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-## 💭 Philosophy
-
-> Build with clarity.  
-> Learn with depth.  
-> Improve with consistency.
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [pranitdandewarofficial](https://github.com/pranitdandewarofficial)
-- Instagram: [@pranitdandewar](https://www.instagram.com/pranitdandewar)
-- Email: [business.pranit@gmail.com](mailto:business.pranit@gmail.com)
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile ❤️
+  <sub>Built with ☕, consistency, and a relentless drive to improve.</sub><br>
+  <b>Thanks for stopping by! Let's connect and build the future.</b> ❤️
 </p>
-## 🧰 What I Build
-
-- 🧮 **Interactive Math & Physics Solvers** – Real-time calculators & visualizers
-- 📊 **Visual Learning Tools** – Making abstract concepts click instantly
-- 🤖 **Automation Scripts** – Python & JavaScript workflows that save hours
-- 📱 **Mini Apps for Students** – Lightweight, focused tools that boost productivity
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react,tailwind,nodejs,figma&perline=8" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔥 **PRANITPORTFOLIO** | Modern personal portfolio with smooth animations and clean design | HTML, CSS, JS |
-| 🎨 **3D Image Effects** | Eye-catching UI experiments with 3D hover effects and interactive visuals | CSS, JavaScript |
-| 📄 **PDF Merger** | Fast, lightweight utility to merge multiple PDFs in seconds | Python |
-
-> Want to see more? Check out my **[full repositories →](https://github.com/pranitdandewarofficial)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitdandewarofficial&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitdandewarofficial&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- 📘 **Advanced Algorithms & Problem Solving** (LeetCode grind)
-- ⚡ **Advanced Physics + Calculus** (building better simulations)
-- 🧠 **Productivity Systems & Notion Mastery**
-- 🔄 Scaling from solo builder to impactful open-source contributor
-
----
-
-## 🤝 Open To
-
-- **Student tools & education apps**
-- **Automation & productivity projects**
-- **Collaborations with fellow builders**
-- **Interesting physics simulation ideas**
-
----
-
-## 📫 Let's Connect
-
-- 📧 **business.pranit@gmail.com**
-- 📸 **Instagram**: [@pranitdandewar](https://www.instagram.com/pranitdandewar)
-- 🐦 **X**: [@PRANITDANDEWAR](https://x.com/PRANITDANDEWAR)
-
----
-
-## ⚡ Philosophy
-
-> **Small steps. Daily discipline. Relentless execution.**
-
----
-
-**Thanks for stopping by!** ✨  
-If you're a student, builder, or just someone who loves clean tools — feel free to say hi. Let's build something awesome together.
