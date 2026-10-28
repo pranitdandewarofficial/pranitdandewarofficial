@@ -55,7 +55,7 @@ class PlaylistAutomationService : AccessibilityService() {
             }
             "SUBMIT_SEARCH" -> {
                 val field = findEditable(root)
-                if (clickAny(root, listOf("Search", "search"), true) || (field != null && field.performAction(AccessibilityNodeInfo.ACTION_IME_ENTER))) {
+                if (clickAny(root, listOf("Search", "search"), true)) {
                     phase = "PICK_RESULT"; acted()
                 }
             }
