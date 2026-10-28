@@ -19,7 +19,7 @@ class MainActivity : Activity() {
         web.webViewClient = object : WebViewClient() {
             override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
                 val uri = request.url
-                return if (uri.scheme == "https" && uri.host?.endsWith("jiosaavn.com") == true) {
+                return if (uri.scheme == "https" && (uri.host?.endsWith("jiosaavn.com") == true || uri.host == "pranitdandewarofficial.github.io")) {
                     startActivity(Intent(Intent.ACTION_VIEW, uri))
                     true
                 } else false
